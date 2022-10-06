@@ -1,6 +1,6 @@
 # This a project assingment of Myways
 
-Hosted on Netlify [Visit](https://myways-assingment.netlify.a/)
+Hosted on Netlify [Visit](https://myways-assingment.netlify.A)
 
 ## Available Scripts
 
