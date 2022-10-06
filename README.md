@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# This a project assingment of Myways
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hosted on Netlify [Visit](https://myways-assingment.netlify.a/)
 
 ## Available Scripts
 
