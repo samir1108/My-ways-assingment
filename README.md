@@ -6,7 +6,7 @@ Hosted on Netlify [Visit](https://myways-assingment.netlify.app/)
 Html5 <br />
 Css <br/>
 React js (18.2.0) <br/>
-Material-UI(5.10.6)
+Material-UI(5.10.6) <br />
 Material-UI Icons(5.10.6)
 
 
