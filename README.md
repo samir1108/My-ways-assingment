@@ -13,6 +13,7 @@ Material-UI Icons(5.10.6)
 ### Platform Used for Hosting
 
 Netlify
+![Screenshot (24)](https://user-images.githubusercontent.com/57242952/194284215-dfb23b38-fa39-4596-8eb7-cadbdb718c74.png)
 
 
 ![Screenshot (25)](https://user-images.githubusercontent.com/57242952/194284029-a04d10f1-3aed-4eb4-a0f7-416734f791a2.png)
