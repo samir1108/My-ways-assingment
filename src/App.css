@@ -1,0 +1,14 @@
+* {
+  margin-top: 5px;
+}
+
+.superscript {
+  left: -13px;
+  top: -30px;
+  position: relative;
+}
+.superscript_small {
+  left: -5px;
+  top: -10px;
+  position: relative;
+}
